@@ -1,0 +1,97 @@
+* {
+    padding: 0;
+    margin: 5px;
+  
+  }
+  body {
+    background-color:white;
+    background-image:url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 100vh;
+    display: flex;
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+  }
+  .cal {
+    width: 350px;
+    height: 320px;
+    background-color: #c0c0c0;
+    box-shadow: 0px 0px 0px 10px #666;
+    border: 5px solid black;
+    border-radius: 10px;
+   
+  }
+  
+  #display {
+    width: 320px;
+    height: 40px;
+    text-align: right;
+    background-color: black;
+    border: 3px solid white;
+    font-size: 18px;
+    left: 2px;
+    top: 2px;
+    color: #7fff00;
+  }
+  .upper{
+    color: white;
+    background-color: #6f6f6f;
+    font-size: 14px;
+    margin: auto;
+    width: 50px;
+    height: 25px;
+  }
+  .Numbers {
+    color: white;
+    background-color: black;
+    font-size: 14px;
+    margin: auto;
+    width: 50px;
+    height: 25px;
+  }
+  .mathsmodule {
+    color: white;
+    background-color: rgb(165, 173, 48);
+    font-size: 14px;
+    margin: auto;
+    width: 50px;
+    height: 25px;
+  }
+  .btnOpps {
+    color: white;
+    background-color: #ff9933;
+    font-size: 14px;
+    margin: auto;
+    width: 50px;
+    height: 25px;
+  }
+
+  .body{
+    background-color: #5269b4;
+  
+    border-color: #7fff00;
+  }
+ 
+  .hr{
+    color: black;
+  }
+
+  .mara{
+    color: white;
+  }
+
+ 
+
+  #table{
+    margin: 0px auto;
+  }
+
+  
+
+ 
